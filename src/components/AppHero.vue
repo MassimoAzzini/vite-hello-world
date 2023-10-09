@@ -61,7 +61,7 @@ a {
 
 .bottom-header {
   color: white;
-  background-image: url(../../img/jumbo.png);
+  background-image: url(../assets/img/jumbo.png);
   background-size: cover;
   background-position: center;
   padding: 130px 0;
