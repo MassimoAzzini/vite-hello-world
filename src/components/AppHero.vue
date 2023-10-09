@@ -12,7 +12,7 @@
       <div class="b-head container">
         <h1>Il tuo posto per parlare</h1>
         <p>
-          Che tu faccia parte di un club scolastico, gruppo di gamer, comunità artistica mondiale, o semplicemente di un piccolo gruppo di amici che vuole passare il tempo assieme, Discord rende più facile chiacchierare ogni giorno e ritrovarsi più spesso.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi asperiores obcaecati enim reprehenderit quasi, laborum, eum optio maxime cupiditate adipisci, illum magnam magni ipsum laboriosam quibusdam voluptatum officia ullam possimus deserunt omnis blanditiis. Deleniti unde recusandae enim facere? Ut, in?
         </p>
         <a href="#" target="_blank" class="btn-big white-black">Scarica per Mac</a>
         <a href="#" target="_blank" class="btn-big black-white">Apri Discord nel tuo browser</a>

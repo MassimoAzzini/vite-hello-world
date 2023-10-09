@@ -16,7 +16,7 @@
 <template>
 
 <div class="bg">
-  
+
   <h1>{{ title }}</h1>
 
 </div>
@@ -33,7 +33,6 @@ h1 {
 
 .bg {
   background-color: #255ee9;
-
 }
 
 </style>
